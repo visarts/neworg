@@ -1,0 +1,32 @@
+[
+  {
+    "id": "shorts",
+    "name": { "long": "Short Stories", "short": "Short Stories" },
+    "desc": "These are the short fictional tales of misery and woe",
+    "type": "category"
+  },
+  {
+    "id": "fables",
+    "name": { "long": "Fables", "short": "Fables" },
+    "desc": "Short stories with an important lesson",
+    "type": "category"
+  },
+  {
+    "id": "fairy_tales",
+    "name": { "long": "Fairy Tales", "short": "Fairy Tales" },
+    "desc": "The mystical the magical the stories of dreams and waking nightmares",
+    "type": "category"
+  },
+  {
+    "id": "poetry",
+    "name": { "long": "Poetry", "short": "Poetry" },
+    "desc": "Lines and lines of rhymes and rhymes",
+    "type": "category"
+  },
+  {
+    "id": "nonfiction",
+    "name": { "long": "Nonfiction", "short": "Nonfiction" },
+    "desc": "Truth facts and opinion of things mostly real",
+    "type": "category"
+  }
+]

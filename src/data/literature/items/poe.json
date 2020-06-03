@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Alone",
+    "id": "poe-alone-1829",
+    "category": "poetry"
+  },
+  {
+    "name": "The Angel of the Odd",
+    "id": "poe-angel-of-the-odd-1844",
+    "category": "shorts"
+  },
+  {
+    "name": "Annabel Lee",
+    "id": "poe-annabel-lee-1849",
+    "category": "poetry"
+  },
+  {
+    "name": "The Bells",
+    "id": "poe-bells-1849",
+    "category": "poetry"
+  },
+  {
+    "name": "Berenice",
+    "id": "poe-berenice-1835",
+    "category": "shorts"
+  },
+  {
+    "name": "The Black Cat",
+    "id": "poe-black-cat-1843",
+    "category": "shorts"
+  },
+  {
+    "name": "Bon-Bon",
+    "id": "poe-bon-bon-1832",
+    "category": "shorts"
+  },
+  {
+    "name": "Bridal Ballad",
+    "id": "poe-bridal-ballad-1837",
+    "category": "poetry"
+  },
+  {
+    "name": "The Cask of Amontillado",
+    "id": "poe-cask-of-amontillado-1846",
+    "category": "shorts"
+  },
+  {
+    "name": "The City in the Sea",
+    "id": "poe-city-in-the-sea-1831",
+    "category": "poetry"
+  },
+  {
+    "name": "The Coliseum",
+    "id": "poe-coliseum-1833",
+    "category": "poetry"
+  },
+  {
+    "name": "A Descent into the Maelström",
+    "id": "poe-descent-into-the-maelstrom-1841",
+    "category": "shorts"
+  },
+  {
+    "name": "The Devil in the Belfry",
+    "id": "poe-devil-in-the-belfry-1839",
+    "category": "shorts"
+  },
+  {
+    "name": "Diddling",
+    "id": "poe-diddling-1843",
+    "category": "shorts"
+  },
+  {
+    "name": "A Dream",
+    "id": "poe-dream-1827",
+    "category": "poetry"
+  },
+  {
+    "name": "A Dream Within a Dream",
+    "id": "poe-dream-within-a-dream-1849",
+    "category": "poetry"
+  },
+  {
+    "name": "Eldorado",
+    "id": "poe-eldorado-1849",
+    "category": "poetry"
+  },
+  {
+    "name": "Eleonora",
+    "id": "poe-eleonora-1841",
+    "category": "shorts"
+  },
+  {
+    "name": "Evening Star",
+    "id": "poe-evening-star-1827",
+    "category": "poetry"
+  },
+  {
+    "name": "Fairy-Land",
+    "id": "poe-fairy-land-1829",
+    "category": "poetry"
+  },
+  {
+    "name": "The Fall of the House of Usher",
+    "id": "poe-fall-of-the-house-of-usher-1839",
+    "category": "shorts"
+  },
+  {
+    "name": "For Annie",
+    "id": "poe-for-annie-1849",
+    "category": "poetry"
+  },
+  {
+    "name": "The Haunted Palace",
+    "id": "poe-haunted-palace-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "Hop-Frog",
+    "id": "poe-hop-frog-1849",
+    "category": "shorts"
+  },
+  {
+    "name": "Hymn",
+    "id": "poe-hymn-1849",
+    "category": "poetry"
+  },
+  {
+    "name": "The Island of the Fay",
+    "id": "poe-island-of-the-fay-1841",
+    "category": "shorts"
+  },
+  {
+    "name": "King Pest",
+    "id": "poe-king-pest-1835",
+    "category": "shorts"
+  },
+  {
+    "name": "Lenore",
+    "id": "poe-lenore-1843",
+    "category": "poetry"
+  },
+  {
+    "name": "Ligeria",
+    "id": "poe-ligeria-1838",
+    "category": "shorts"
+  },
+  {
+    "name": "The Masque of the Red Death",
+    "id": "poe-masque-of-the-red-death-1842",
+    "category": "shorts"
+  },
+  {
+    "name": "Metzengerstein",
+    "id": "poe-metzengerstein-1832",
+    "category": "shorts"
+  },
+  {
+    "name": "The Murders in the Rue Morgue",
+    "id": "poe-murders-in-the-rue-morgue-1841",
+    "category": "shorts"
+  },
+  {
+    "name": "Never Bet the Devil Your Head",
+    "id": "poe-never-bet-the-devil-your-head-1841",
+    "category": "shorts"
+  },
+  {
+    "name": "The Oblong Box",
+    "id": "poe-oblong-box-1844",
+    "category": "shorts"
+  },
+  {
+    "name": "The Pit and the Pendulum",
+    "id": "poe-pit-and-the-pendulum-1844",
+    "category": "shorts"
+  },
+  {
+    "name": "A Predicament",
+    "id": "poe-predicament-1838",
+    "category": "shorts"
+  },
+  {
+    "name": "The Premature Burial",
+    "id": "poe-premature-burial-1844",
+    "category": "shorts"
+  },
+  {
+    "name": "The Purloined Letter",
+    "id": "poe-purloined-letter-1844",
+    "category": "shorts"
+  },
+  {
+    "name": "The Raven",
+    "id": "poe-raven-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Romance",
+    "id": "poe-romance-1829",
+    "category": "poetry"
+  },
+  {
+    "name": "Serenade",
+    "id": "poe-serenade-1833",
+    "category": "poetry"
+  },
+  {
+    "name": "Silence -- a Fable",
+    "id": "poe-silence-a-fable-1838",
+    "category": "shorts"
+  },
+  {
+    "name": "The Sleeper",
+    "id": "poe-sleeper-1831",
+    "category": "poetry"
+  },
+  {
+    "name": "Song",
+    "id": "poe-song-1827",
+    "category": "poetry"
+  },
+  {
+    "name": "The Spectacles",
+    "id": "poe-spectacles-1844",
+    "category": "shorts"
+  },
+  {
+    "name": "The Sphinx",
+    "id": "poe-sphinx-1846",
+    "category": "shorts"
+  },
+  {
+    "name": "Spirits of the Dead",
+    "id": "poe-spirits-of-the-dead-1827",
+    "category": "poetry"
+  },
+  {
+    "name": "Tamerlane",
+    "id": "poe-tamerlane-1827",
+    "category": "poetry"
+  },
+  {
+    "name": "The Tell Tale Heart",
+    "id": "poe-tell-tale-heart-1843",
+    "category": "shorts"
+  },
+  {
+    "name": "Thou Art the Man",
+    "id": "poe-thou-art-the-man-1844",
+    "category": "shorts"
+  },
+  {
+    "name": "Three Sundays in a Week",
+    "id": "poe-three-sundays-in-a-week-1841",
+    "category": "shorts"
+  },
+  {
+    "name": "To Helen",
+    "id": "poe-to-helen-1831",
+    "category": "poetry"
+  },
+  {
+    "name": "To My Mother",
+    "id": "poe-to-my-mother-1849",
+    "category": "poetry"
+  },
+  {
+    "name": "A Valentine",
+    "id": "poe-valentine-1846",
+    "category": "poetry"
+  },
+  {
+    "name": "The Valley of Unrest",
+    "id": "poe-valley-of-unrest-1831",
+    "category": "poetry"
+  },
+  {
+    "name": "Von Kempelen and his Discovery",
+    "id": "poe-von-kempelen-and-his-discovery-1849",
+    "category": "shorts"
+  },
+  {
+    "name": "William Wilson",
+    "id": "poe-william-wilson-1839",
+    "category": "shorts"
+  }
+]

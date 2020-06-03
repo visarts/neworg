@@ -1,0 +1,122 @@
+[
+  {
+    "name": "The Answer",
+    "id": "kipling-answer-1892",
+    "category": "poetry"
+  },
+  {
+    "name": "The Ballad Of East And West",
+    "id": "kipling-ballad-of-east-and-west-1899",
+    "category": "poetry"
+  },
+  {
+    "name": "The Beginning of the Armadillos",
+    "id": "kipling-beginning-of-the-armadillos-1900",
+    "category": "shorts"
+  },
+  {
+    "name": "The Butterfly That Stamped",
+    "id": "kipling-butterfly-that-stamped-1903",
+    "category": "shorts"
+  },
+  {
+    "name": "Cities And Thrones And Powers",
+    "id": "kipling-cities-and-thrones-and-powers-1903",
+    "category": "poetry"
+  },
+  {
+    "name": "Dedication",
+    "id": "kipling-dedication-1897",
+    "category": "poetry"
+  },
+  {
+    "name": "Edgehill Fight",
+    "id": "kipling-edgehill-fight-1897",
+    "category": "poetry"
+  },
+  {
+    "name": "The Elephant's Child",
+    "id": "kipling-elephants-child-1902",
+    "category": "shorts"
+  },
+  {
+    "name": "The Explanation",
+    "id": "kipling-explanation-1890",
+    "category": "poetry"
+  },
+  {
+    "name": "Fuzzy-wuzzy",
+    "id": "kipling-fuzzy-wuzzy-1892",
+    "category": "poetry"
+  },
+  {
+    "name": "Gunga Din",
+    "id": "kipling-gunga-din-1892",
+    "category": "poetry"
+  },
+  {
+    "name": "How the Alphabet Was Made",
+    "id": "kipling-how-the-alphabet-was-made-1923",
+    "category": "shorts"
+  },
+  {
+    "name": "How the Camel Got His Hump",
+    "id": "kipling-how-the-camel-got-his-hump-1902",
+    "category": "shorts"
+  },
+  {
+    "name": "The Legend Of Evil",
+    "id": "kipling-legend-of-evil-1892",
+    "category": "poetry"
+  },
+  {
+    "name": "Loot",
+    "id": "kipling-loot-1890",
+    "category": "poetry"
+  },
+  {
+    "name": "The Man Who Was",
+    "id": "kipling-man-who-was-1898",
+    "category": "shorts"
+  },
+  {
+    "name": "The Man Who Would Be King",
+    "id": "kipling-man-who-would-be-king-1888",
+    "category": "shorts"
+  },
+  {
+    "name": "The Miracles",
+    "id": "kipling-miracles-1894",
+    "category": "poetry"
+  },
+  {
+    "name": "A Pilgrim's Way",
+    "id": "kipling-pilgrims-way-1918",
+    "category": "poetry"
+  },
+  {
+    "name": "Soldier, Soldier",
+    "id": "kipling-soldier-soldier-1916",
+    "category": "poetry"
+  },
+  {
+    "name": "The Song Of The Dead",
+    "id": "kipling-song-of-the-dead-1922",
+    "category": "poetry"
+  },
+  {
+    "name": "Tommy",
+    "id": "kipling-tommy-1890",
+    "category": "poetry"
+  },
+  {
+    "name": "The Vampire",
+    "id": "kipling-vampire-1922",
+    "category": "poetry"
+  },
+  {
+    "name": "When Earth's Last Picture Is Painted",
+    "id": "kipling-when-earths-last-picture-is-painted-1892",
+    "category": "poetry"
+  }
+]

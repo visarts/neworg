@@ -1,0 +1,52 @@
+[
+  {
+    "name": "The Dancing Monkeys",
+    "id": "aesop-dancing-monkeys-",
+    "category": "fables"
+  },
+  {
+    "name": "The Man, the Boy, and the Donkey",
+    "id": "aesop-man-boy-donkey-",
+    "category": "fables"
+  },
+  {
+    "name": "The Milkmaid and Her Pail",
+    "id": "aesop-milkmaid-and-her-pail-",
+    "category": "fables"
+  },
+  {
+    "name": "The Silkworm and Spider",
+    "id": "aesop-silkworm-and-spider-",
+    "category": "fables"
+  },
+  {
+    "name": "The Stag at the Pool",
+    "id": "aesop-stag-at-the-pool-",
+    "category": "fables"
+  },
+  {
+    "name": "The Thief and His Mother",
+    "id": "aesop-thief-and-his-mother-",
+    "category": "fables"
+  },
+  {
+    "name": "The Tortoise and the Hare",
+    "id": "aesop-tortoise-and-the-hare-",
+    "category": "fables"
+  },
+  {
+    "name": "The Trees and the Axe",
+    "id": "aesop-trees-and-the-axe-",
+    "category": "fables"
+  },
+  {
+    "name": "The Vain Jackdaw",
+    "id": "aesop-vain-jackdaw-",
+    "category": "fables"
+  },
+  {
+    "name": "The Wolf and the Lamb",
+    "id": "aesop-wolf-and-the-lamb-",
+    "category": "fables"
+  }
+]

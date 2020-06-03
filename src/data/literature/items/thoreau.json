@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Aulus Persius Flaccus",
+    "id": "thoreau-aulus-persius-flaccus-1840",
+    "category": "nonfiction"
+  },
+  {
+    "name": "Civil Disobedience",
+    "id": "thoreau-civil-disobedience-1849",
+    "category": "nonfiction"
+  },
+  {
+    "name": "The Highland Light",
+    "id": "thoreau-highland-light-1864",
+    "category": "nonfiction"
+  },
+  {
+    "name": "The Landlord",
+    "id": "thoreau-landlord-1843",
+    "category": "nonfiction"
+  },
+  {
+    "name": "Life Without Principle",
+    "id": "thoreau-life-without-principle-1854",
+    "category": "nonfiction"
+  },
+  {
+    "name": "Night and Moonlight",
+    "id": "thoreau-night-and-moonlight-1863",
+    "category": "nonfiction"
+  },
+  {
+    "name": "A Plea For Captain John Brown",
+    "id": "thoreau-plea-for-captain-john-brown-1859",
+    "category": "nonfiction"
+  },
+  {
+    "name": "Slavery in Massachusetts",
+    "id": "thoreau-slavery-in-massachusetts-1854",
+    "category": "nonfiction"
+  },
+  {
+    "name": "Walking",
+    "id": "thoreau-walking-1861",
+    "category": "nonfiction"
+  },
+  {
+    "name": "Wild Apples",
+    "id": "thoreau-wild-apples-1862",
+    "category": "nonfiction"
+  }
+]

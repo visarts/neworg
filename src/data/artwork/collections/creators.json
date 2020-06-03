@@ -1,0 +1,163 @@
+[
+  {
+    "id": "bouguereau",
+    "name": { "long": "William Bouguereau", "short": "Bouguereau" },
+    "desc": "Much has been said of Bouguereau which cannot be detailed here.",
+    "dates": ["Nov 30, 1825", "Aug 19, 1905"],
+    "category": "academic",
+    "type": "creator"
+  },
+  {
+    "id": "cassatt",
+    "name": { "long": "Mary Cassatt", "short": "Cassatt" },
+    "desc": "Much has been said of Cassatt which cannot be detailed here.",
+    "dates": ["May 22, 1844", "June 14, 1926"],
+    "category": "impressionism",
+    "type": "creator"
+  },
+  {
+    "id": "cezanne",
+    "name": { "long": "Paul Cezanne", "short": "Cezanne" },
+    "desc": "Much has been said of Cezanne which cannot be detailed here.",
+    "dates": ["Jan 19, 1839", "Oct 22, 1906"],
+    "category": "post_impressionism",
+    "type": "creator"
+  },
+  {
+    "id": "degas",
+    "name": { "long": "Edgar Degas", "short": "Degas" },
+    "desc": "Much has been said of Degas which cannot be detailed here.",
+    "dates": ["July 19, 1834", "Sept 27, 1917"],
+    "category": "impressionism",
+    "type": "creator"
+  },
+  {
+    "id": "gauguin",
+    "name": { "long": "Paul Gauguin", "short": "Gauguin" },
+    "desc": "Much has been said of Gauguin which cannot be detailed here.",
+    "dates": ["June 7, 1848", "May 8, 1903"],
+    "category": "post_impressionism",
+    "type": "creator"
+  },
+
+  {
+    "id": "gerome",
+    "name": { "long": "Jean-L%C3%A9on G%C3%A9r%C3%B4me", "short": "G%C3%A9r%C3%B4me" },
+    "desc": "Much has been said of G%C3%A9r%C3%B4me which cannot be detailed here.",
+    "dates": ["May 11, 1824", "Jan 10, 1904"],
+    "category": "academic",
+    "type": "creator"
+  },
+  {
+    "id": "harnett",
+    "name": { "long": "William Harnett", "short": "Harnett" },
+    "desc": "Much has been said of Harnett which cannot be detailed here.",
+    "dates": ["Aug 10, 1848", "Oct 29, 1892"],
+    "category": "realism",
+    "type": "creator"
+  },
+  {
+    "id": "michelangelo",
+    "name": { "long": "Buonarroti Michelangelo", "short": "Michelangelo" },
+    "desc": "Much has been said of Michelangelo which cannot be detailed here.",
+    "dates": ["Mar 6, 1475", "Feb 18, 1564"],
+    "category": "renaissance",
+    "type": "creator"
+  },
+  {
+    "id": "monet",
+    "name": { "long": "Claude Monet", "short": "Monet" },
+    "desc": "Much has been said of Monet which cannot be detailed here.",
+    "dates": ["Nov 14, 1840", "Dec 5, 1926"],
+    "category": "impressionism",
+    "type": "creator"
+  },
+  {
+    "id": "okeeffe",
+    "name": { "long": "Georgia O'Keeffe", "short": "O'Keeffe" },
+    "desc": "Much has been said of O'Keeffe which cannot be detailed here.",
+    "dates": ["Nov 15, 1887", "Mar 6, 1986"],
+    "category": "modernism",
+    "type": "creator"
+  },
+  {
+    "id": "raphael",
+    "name": { "long": "Raphael Sanzio da Urbino", "short": "Raphael" },
+    "desc": "Much has been said of Raphael which cannot be detailed here.",
+    "dates": ["1483", "Apr 6, 1520"],
+    "category": "renaissance",
+    "type": "creator"
+  },
+  {
+    "id": "rembrandt",
+    "name": { "long": "Rembrandt Harmenszoon van Rijn", "short": "Rembrandt" },
+    "desc": "Much has been said of Rembrandt which cannot be detailed here.",
+    "dates": ["July 15, 1606", "Oct 4, 1669"],
+    "category": "baroque",
+    "type": "creator"
+  },
+  {
+    "id": "renoir",
+    "name": { "long": "Pierre-Auge Renoir", "short": "Renoir" },
+    "desc": "Much has been said of Renoir which cannot be detailed here.",
+    "dates": ["Feb 25, 1841", "Dec 3, 1919"],
+    "category": "impressionism",
+    "type": "creator"
+  },
+  {
+    "id": "rossetti",
+    "name": { "long": "Dante Rossetti", "short": "Rossetti" },
+    "desc": "Much has been said of Rossetti which cannot be detailed here.",
+    "dates": ["May 12, 1828", "Apr 9, 1882"],
+    "category": "pre_raphaelite",
+    "type": "creator"
+  },
+  {
+    "id": "rousseau",
+    "name": { "long": "Henri Rousseau", "short": "Rousseau" },
+    "desc": "Much has been said of Rousseau which cannot be detailed here.",
+    "dates": ["May 21, 1844", "Sept 2, 1910"],
+    "category": "post_impressionism",
+    "type": "creator"
+  },
+  {
+    "id": "sargent",
+    "name": { "long": "John Singer Sargent", "short": "Sargent" },
+    "desc": "Much has been said of Sargent which cannot be detailed here.",
+    "dates": ["Jan 12, 1856", "Apr 14, 1925"],
+    "category": "realism",
+    "type": "creator"
+  },
+  {
+    "id": "seurat",
+    "name": { "long": "Georges Seurat", "short": "Seurat" },
+    "desc": "Much has been said of Seurat which cannot be detailed here.",
+    "dates": ["Dec 2, 1859", "Mar 29, 1891"],
+    "category": "post_impressionism",
+    "type": "creator"
+  },
+  {
+    "id": "vangogh",
+    "name": { "long": "Vincent Van Gogh", "short": "Van Gogh" },
+    "desc": "Much has been said of Van Gogh which cannot be detailed here.",
+    "dates": ["Mar 30, 1853", "July 29, 1890"],
+    "category": "post_impressionism",
+    "type": "creator"
+  },
+  {
+    "id": "vonamerling",
+    "name": { "long": "Friedrich Von Amerling", "short": "Von Amerling" },
+    "desc": "Much has been said of Von Amerling which cannot be detailed here.",
+    "dates": ["Apr 14, 1803", "Jan 14, 1887"],
+    "category": "academic",
+    "type": "creator"
+  },
+  {
+    "id": "waterhouse",
+    "name": { "long": "John William Waterhouse", "short": "Waterhouse" },
+    "desc": "Much has been said of Waterhouse which cannot be detailed here.",
+    "dates": ["Apr 6, 1849", "Feb 10, 1917"],
+    "category": "pre_raphaelite",
+    "type": "creator"
+  }
+]

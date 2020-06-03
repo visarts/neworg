@@ -1,0 +1,402 @@
+[
+  {
+    "name": "The Beam",
+    "id": "grimm-beam-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Bearskin",
+    "id": "grimm-bearskin-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Blue Light",
+    "id": "grimm-blue-light-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Brave Little Tailor",
+    "id": "grimm-brave-little-tailor-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Bremen Town Musicians",
+    "id": "grimm-bremen-town-musicians-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Brother and Sister",
+    "id": "grimm-brother-and-sister-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Brother Lustig",
+    "id": "grimm-brother-lustig-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Cinderella",
+    "id": "grimm-cinderella-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Clever Grethel",
+    "id": "grimm-clever-grethel-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Clever Hans",
+    "id": "grimm-clever-hans-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Crystal Ball",
+    "id": "grimm-crystal-ball-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Death of the Little Hen",
+    "id": "grimm-death-of-the-little-hen-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Devil's Sooty Brother",
+    "id": "grimm-devils-sooty-brother-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Devil With the Three Golden Hairs",
+    "id": "grimm-devil-with-the-three-golden-hairs-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Dog and the Sparrow",
+    "id": "grimm-dog-and-the-sparrow-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Duration of Life",
+    "id": "grimm-duration-of-life-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Ear of Corn",
+    "id": "grimm-ear-of-corn-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Elves",
+    "id": "grimm-elves-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Eve's Various Children",
+    "id": "grimm-eves-various-children-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Faithful John",
+    "id": "grimm-faithful-john-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Fisherman and His Wife",
+    "id": "grimm-fisherman-and-his-wife-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Fox and the Geese",
+    "id": "grimm-fox-and-the-geese-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Frog-King, or Iron Henry",
+    "id": "grimm-frog-king-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Girl Without Hands",
+    "id": "grimm-girl-without-hands-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Glass Coffin",
+    "id": "grimm-glass-coffin-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Godfather",
+    "id": "grimm-godfather-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Golden Goose",
+    "id": "grimm-golden-goose-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Good Bargain",
+    "id": "grimm-good-bargain-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Grave-Mound",
+    "id": "grimm-grave-mound-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Griffin",
+    "id": "grimm-griffin-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Hansel and Grethel",
+    "id": "grimm-hansel-and-grethel-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Hans in Luck",
+    "id": "grimm-hans-in-luck-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Hans Married",
+    "id": "grimm-hans-married-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Hare and the Hedgehog",
+    "id": "grimm-hare-and-the-hedgehog-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Hare's Bride",
+    "id": "grimm-hares-bride-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Hut in the Forest",
+    "id": "grimm-hut-in-the-forest-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Iron John",
+    "id": "grimm-iron-john-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Iron Stove",
+    "id": "grimm-iron-stove-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Juniper-Tree",
+    "id": "grimm-juniper-tree-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "King Thrushbeard",
+    "id": "grimm-king-thrushbeard-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Lazy Spinner",
+    "id": "grimm-lazy-spinner-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Little Briar-Rose",
+    "id": "grimm-little-briar-rose-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Little Red Riding Hood",
+    "id": "grimm-little-red-riding-hood-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Little Snow White",
+    "id": "grimm-little-snow-white-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Maid Maleen",
+    "id": "grimm-maid-maleen-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Moon",
+    "id": "grimm-moon-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Nail",
+    "id": "grimm-nail-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Old Hildebrand",
+    "id": "grimm-old-hildebrand-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Old Rinkrank",
+    "id": "grimm-old-rinkrank-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Old Sultan",
+    "id": "grimm-old-sultan-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Our Lady's Child",
+    "id": "grimm-our-ladys-child-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Peasant and the Devil",
+    "id": "grimm-peasant-and-the-devil-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Poor Boy in the Grave",
+    "id": "grimm-poor-boy-in-the-grave-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Poor Man and the Rich Man",
+    "id": "grimm-poor-man-and-the-rich-man-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Queen Bee",
+    "id": "grimm-queen-bee-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Rapunzel",
+    "id": "grimm-rapunzel-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Raven",
+    "id": "grimm-raven-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Riddle",
+    "id": "grimm-riddle-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Robber Bridegroom",
+    "id": "grimm-robber-bridegroom-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Rumpelstiltskin",
+    "id": "grimm-rumpelstiltskin-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Saint Joseph in the Forest",
+    "id": "grimm-saint-joseph-in-the-forest-1819",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Shoes That Were Danced to Pieces",
+    "id": "grimm-shoes-that-were-danced-to-pieces-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Singing Bone",
+    "id": "grimm-singing-bone-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Six Swans",
+    "id": "grimm-six-swans-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Spindle, The Shuttle, and the Needle",
+    "id": "grimm-spindle-shuttle-and-needle-1857",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Spirit in the Bottle",
+    "id": "grimm-spirit-in-the-bottle-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Sweetheart Roland",
+    "id": "grimm-sweetheart-roland-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Sweet Porridge",
+    "id": "grimm-sweet-porridge",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Thief and His Master",
+    "id": "grimm-thief-and-his-master-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Three Brothers",
+    "id": "grimm-three-brothers-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Three Little Men in the Wood",
+    "id": "grimm-three-little-men-in-the-wood-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Three Spinners",
+    "id": "grimm-three-spinners-1819",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "Thumbling",
+    "id": "grimm-thumbling-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Twelve Brothers",
+    "id": "grimm-twelve-brothers-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Twelve Huntsmen",
+    "id": "grimm-twelve-huntsmen-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Water of Life",
+    "id": "grimm-water-of-life-1815",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The White Snake",
+    "id": "grimm-white-snake-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Wolf and the Man",
+    "id": "grimm-wolf-and-the-man-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Wonderful Musician",
+    "id": "grimm-wonderful-musician-1812",
+    "category": "fairy_tales"
+  },
+  {
+    "name": "The Young Giant",
+    "id": "grimm-young-giant-1815",
+    "category": "fairy_tales"
+  }
+]

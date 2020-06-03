@@ -1,0 +1,387 @@
+[
+  {
+    "name": "Afternoon in February",
+    "id": "longfellow-afternoon-in-february-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "An April Day",
+    "id": "longfellow-an-april-day-1825",
+    "category": "poetry"
+  },
+  {
+    "name": "The Arrow and the Song",
+    "id": "longfellow-arrow-and-the-song-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "The Arsenal at Springfield",
+    "id": "longfellow-arsenal-at-springfield-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Autumn",
+    "id": "longfellow-autumn-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Autumn Within",
+    "id": "longfellow-autumn-within-1882",
+    "category": "poetry"
+  },
+  {
+    "name": "The Beleaguered City",
+    "id": "longfellow-beleaguered-city-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "The Belfry of Bruges",
+    "id": "longfellow-belfry-of-bruges-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Birds Of Passage",
+    "id": "longfellow-birds-of-passage-1858",
+    "category": "poetry"
+  },
+  {
+    "name": "Blind Bartimeus",
+    "id": "longfellow-blind-bartimeus-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "The Bridge",
+    "id": "longfellow-bridge-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Burial of the Minnisink",
+    "id": "longfellow-burial-of-the-minnisink-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "Carillon",
+    "id": "longfellow-carillon-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Changed",
+    "id": "longfellow-changed-1873",
+    "category": "poetry"
+  },
+  {
+    "name": "Children",
+    "id": "longfellow-children-1858",
+    "category": "poetry"
+  },
+  {
+    "name": "The Children's Hour",
+    "id": "longfellow-childrens-hour-1863",
+    "category": "poetry"
+  },
+  {
+    "name": "The Courtship of Miles Standish",
+    "id": "longfellow-courtship-of-miles-standish-1858",
+    "category": "poetry"
+  },
+  {
+    "name": "Curfew",
+    "id": "longfellow-curfew-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Dante",
+    "id": "longfellow-dante-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "The Day is Done",
+    "id": "longfellow-day-is-done-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Drinking Song",
+    "id": "longfellow-drinking-song-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Endymion",
+    "id": "longfellow-endymion-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Evangeline: A Tale of Acadie",
+    "id": "longfellow-evangeline-1847",
+    "category": "poetry"
+  },
+  {
+    "name": "The Evening Star",
+    "id": "longfellow-evening-star-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Excelsior",
+    "id": "longfellow-excelsior-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "Fata Morgana",
+    "id": "longfellow-fata-morgana-1873",
+    "category": "poetry"
+  },
+  {
+    "name": "Flowers",
+    "id": "longfellow-flowers-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "Footsteps of Angels",
+    "id": "longfellow-footsteps-of-angels-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "A Gleam of Sunshine",
+    "id": "longfellow-gleam-of-sunshine-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Goblet of Life",
+    "id": "longfellow-goblet-of-life-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "God's Acre",
+    "id": "longfellow-gods-acre-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "The Good Part, That Shall Not be Taken Away",
+    "id": "longfellow-good-part-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "Hymn of the Moravian Nuns of Bethlehem",
+    "id": "longfellow-hymn-of-the-moravian-nuns-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "Hymn to the Night",
+    "id": "longfellow-hymn-to-the-night-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "It Is Not Always May",
+    "id": "longfellow-it-is-not-always-may-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "L'Envoi",
+    "id": "longfellow-l-envoi-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "The Ladder of St. Augustine",
+    "id": "longfellow-ladder-of-st-augustine-1858",
+    "category": "poetry"
+  },
+  {
+    "name": "The Light of Stars",
+    "id": "longfellow-light-of-stars-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "Loss And Gain",
+    "id": "longfellow-loss-and-gain-1882",
+    "category": "poetry"
+  },
+  {
+    "name": "Maidenhood",
+    "id": "longfellow-maidenhood-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "Mezzo Cammin",
+    "id": "longfellow-mezzo-cammin-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Midnight Mass for the Dying Year",
+    "id": "longfellow-midnight-mass-for-the-dying-year-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "My Lost Youth",
+    "id": "longfellow-lost-youth-1858",
+    "category": "poetry"
+  },
+  {
+    "name": "Nature",
+    "id": "longfellow-nature-1878",
+    "category": "poetry"
+  },
+  {
+    "name": "The Norman Baron",
+    "id": "longfellow-norman-baron-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Nuremburg",
+    "id": "longfellow-nuremburg-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "The Occultation of Orion",
+    "id": "longfellow-occultation-of-orion-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "The Old Clock on the Stairs",
+    "id": "longfellow-old-clock-on-the-stairs-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "Paul Revere's Ride",
+    "id": "longfellow-paul-reveres-ride-1863",
+    "category": "poetry"
+  },
+  {
+    "name": "A Psalm of Life",
+    "id": "longfellow-psalm-of-life-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "The Quadroon Girl",
+    "id": "longfellow-quadroon-girl-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "Rain in Summer",
+    "id": "longfellow-rain-in-summer-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "The Rainy Day",
+    "id": "longfellow-rainy-day-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "The Reaper and the Flowers",
+    "id": "longfellow-reaper-and-the-flowers-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "The Republic",
+    "id": "longfellow-republic-1850",
+    "category": "poetry"
+  },
+  {
+    "name": "The Skeleton in Armor",
+    "id": "longfellow-skeleton-in-armor-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "The Slave in the Dismal Swamp",
+    "id": "longfellow-slave-in-the-dismal-swamp-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "The Slave Singing at Midnight",
+    "id": "longfellow-slave-singing-at-midnight-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "The Slave's Dream",
+    "id": "longfellow-slaves-dream-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "Snow-Flakes",
+    "id": "longfellow-snow-flakes-1863",
+    "category": "poetry"
+  },
+  {
+    "name": "The Sound Of The Sea",
+    "id": "longfellow-sound-of-the-sea-1875",
+    "category": "poetry"
+  },
+  {
+    "name": "Spirit of Poetry",
+    "id": "longfellow-spirit-of-poetry-1828",
+    "category": "poetry"
+  },
+  {
+    "name": "St. John's, Cambridge",
+    "id": "longfellow-st-johns-cambridge-1878",
+    "category": "poetry"
+  },
+  {
+    "name": "Sunrise on the Hills",
+    "id": "longfellow-sunrise-on-the-hills-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "The Tide Rises, the Tide Falls",
+    "id": "longfellow-tide-rises-tide-falls-1880",
+    "category": "poetry"
+  },
+  {
+    "name": "To a Child",
+    "id": "longfellow-to-a-child-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "To an Old Danish Song-Book",
+    "id": "longfellow-to-an-old-danish-song-book-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "To the Driving Cloud",
+    "id": "longfellow-to-the-driving-cloud-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "To the River Charles",
+    "id": "longfellow-to-the-river-charles-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "To William E. Channing",
+    "id": "longfellow-to-william-e-channing-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "Village Blacksmith",
+    "id": "longfellow-village-blacksmith-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "Voices of the Night",
+    "id": "longfellow-voices-of-the-night-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "Walter Von Der Vogelweid",
+    "id": "longfellow-walter-von-der-volgelweid-1845",
+    "category": "poetry"
+  },
+  {
+    "name": "The Warning",
+    "id": "longfellow-warning-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "The Witnesses",
+    "id": "longfellow-witnesses-1842",
+    "category": "poetry"
+  },
+  {
+    "name": "Woods in Winter",
+    "id": "longfellow-woods-in-winter-1839",
+    "category": "poetry"
+  },
+  {
+    "name": "Wreck of the Hesperus",
+    "id": "longfellow-wreck-of-the-hesperus-1842",
+    "category": "poetry"
+  }
+]

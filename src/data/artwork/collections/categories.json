@@ -1,0 +1,58 @@
+[
+   {
+    "id": "renaissance",
+    "name": { "long": "Renaissance", "short": "Renaissance" },
+    "desc": "These are the short fictional tales of misery and woe",
+    "dates": ["", ""],
+    "type": "category"
+  },
+  {
+    "id": "baroque",
+    "name": { "long": "Baroque", "short": "Baroque" },
+    "desc": "Short stories with an important lesson",
+    "dates": ["", ""],
+    "type": "category"
+  },
+  {
+    "id": "pre_raphaelite",
+    "name": { "long": "Pre-Raphaelite", "short": "Pre-Raphaelite" },
+    "desc": "The mystical the magical the stories of dreams and waking nightmares",
+    "dates": ["", ""],
+    "type": "category"
+  },
+  {
+    "id": "academic",
+    "name": { "long": "Academic", "short": "Academic" },
+    "desc": "Lines and lines of rhymes and rhymes",
+    "dates": ["", ""],
+    "type": "category"
+  },
+  {
+    "id": "impressionism",
+    "name": { "long": "Impressionism", "short": "Impressionism" },
+    "desc": "Truth facts and opinion of things mostly real",
+    "dates": ["", ""],
+    "type": "category"
+  },
+  {
+    "id": "post_impressionism",
+    "name": { "long": "Post-Impressionism", "short": "Post-Impressionism" },
+    "desc": "Truth facts and opinion of things mostly real",
+    "dates": ["", ""],
+    "type": "category"
+  },
+  {
+    "id": "realism",
+    "name": { "long": "Realism", "short": "Realism" },
+    "desc": "Truth facts and opinion of things mostly real",
+    "dates": ["", ""],
+    "type": "category"
+  },
+  {
+    "id": "modernism",
+    "name": { "long": "Modernism", "short": "Modernism" },
+    "desc": "Truth facts and opinion of things mostly real",
+    "dates": ["", ""],
+    "type": "category"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "A Flight",
+    "id": "dickens-a-flight-1851",
+    "category": "shorts"
+  },
+  {
+    "name": "A Walk in a Workhouse",
+    "id": "dickens-a-walk-in-a-workhouse-1850",
+    "category": "nonfiction"
+  },
+  {
+    "name": "Bill-Sticking",
+    "id": "dickens-bill-sticking-1851",
+    "category": "shorts"
+  },
+  {
+    "name": "Christmas at Fezziwig's Warehouse",
+    "id": "dickens-christmas-at-fezziwigs-warehouse-1843",
+    "category": "shorts"
+  },
+  {
+    "name": "Down with the Tide",
+    "id": "dickens-down-with-the-tide-1853",
+    "category": "shorts"
+  },
+  {
+    "name": "Familiar Epistle from a Parent to a Child Aged Two Years and Two Months",
+    "id": "dickens-familiar-epistle-from-a-parent-to-a-child-1839",
+    "category": "shorts"
+  },
+  {
+    "name": "Going Into Society",
+    "id": "dickens-going-into-society-1858",
+    "category": "shorts"
+  },
+  {
+    "name": "The Lamplighter",
+    "id": "dickens-lamplighter-1838",
+    "category": "shorts"
+  },
+  {
+    "name": "The Lost Arctic Voyagers",
+    "id": "dickens-lost-arctic-voyagers-1854",
+    "category": "nonfiction"
+  },
+  {
+    "name": "Lying Awake",
+    "id": "dickens-lying-awake-1852",
+    "category": "shorts"
+  },
+  {
+    "name": "Mugby Junction",
+    "id": "dickens-mugby-junction-1866",
+    "category": "shorts"
+  },
+  {
+    "name": "Nobody's Story",
+    "id": "dickens-nobodys-story-1853",
+    "category": "shorts"
+  },
+  {
+    "name": "On Duty with Inspector Field",
+    "id": "dickens-on-duty-with-inspector-field-1851",
+    "category": "nonfiction"
+  },
+  {
+    "name": "On Grief, and How to Heal a Mourning Heart",
+    "id": "dickens-on-grief-and-how-to-heal-a-mourning-heart-1862",
+    "category": "nonfiction"
+  },
+  {
+    "name": "Our School",
+    "id": "dickens-our-school-1851",
+    "category": "shorts"
+  },
+  {
+    "name": "The Perils of Certain English Prisoners",
+    "id": "dickens-perils-of-certain-english-prisoners-1857",
+    "category": "shorts"
+  },
+  {
+    "name": "The Poor Relation's Story",
+    "id": "dickens-poor-relations-story-1852",
+    "category": "shorts"
+  },
+  {
+    "name": "Somebody's Luggage",
+    "id": "dickens-somebodys-luggage-1862",
+    "category": "shorts"
+  },
+  {
+    "name": "To be Read at Dusk",
+    "id": "dickens-to-be-read-at-dusk-1852",
+    "category": "shorts"
+  },
+  {
+    "name": "What Christmas is as We Grow Older",
+    "id": "dickens-what-christmas-is-as-we-grow-older-1851",
+    "category": "nonfiction"
+  },
+  {
+    "name": "What is Sensational?",
+    "id": "dickens-what-is-sensational-1867",
+    "category": "nonfiction"
+  },
+  {
+    "name": "The Wreck of the Golden Mary",
+    "id": "dickens-wreck-of-the-golden-mary-1856",
+    "category": "shorts"
+  }
+]

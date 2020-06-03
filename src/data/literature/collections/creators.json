@@ -1,0 +1,107 @@
+[
+  {
+    "id": "aesop",
+    "name": { "long": "Aesop", "short": "Aesop" },
+    "desc": "Much has been said of Aesop which cannot be detailed here.",
+    "dates": ["600 BC", "564 BC"],
+    "type": "creator"
+  },
+  {
+    "id": "andersen",
+    "name": { "long": "Hans Christian Andersen", "short": "Andersen" },
+    "desc": "Hans Christian Andersen was born in the town of Odense, Denmark, on 2 Apr 1805. He was an only child. Andersen's father, also Hans, considered himself related to nobility. His paternal grandmother had told his father that their family had in the past belonged to a higher social class, but investigations prove these stories unfounded. A persistent theory suggests that Andersen was an illegitimate son of King Christian VIII, but this theory has been criticized by others.",
+    "dates": ["Apr 2 1805", "Aug 4 1875"],
+    "type": "creator"
+  },
+  {
+    "id": "dickens",
+    "name": { "long": "Charles Dickens", "short": "Dickens" },
+    "desc": "Much has been said of Dickens which cannot be detailed here.",
+    "dates": ["Feb 7, 1812", "June 9, 1870"],
+    "type": "creator"
+  },
+  {
+    "id": "dickinson",
+    "name": { "long": "Emily Dickinson", "short": "Dickinson" },
+    "desc": "Much has been said of Emily which cannot be detailed here.",
+    "dates": ["Dec 10, 1830", "May 15, 1886"],
+    "type": "creator"
+  },
+  {
+    "id": "frost",
+    "name": { "long": "Robert Frost", "short": "Frost" },
+    "desc": "Much has been said of Frost which cannot be detailed here.",
+    "dates": ["Mar 26, 1874", "Jan 29, 1963"],
+    "type": "creator"
+  },
+  {
+    "id": "grimm",
+    "name": { "long": "The Brothers Grimm", "short": "Grimm" },
+    "desc": "Much has been said of the Grimm brothers which cannot be detailed here.",
+    "dates": ["1786", "1859"],
+    "type": "creator"
+  },
+  {
+    "id": "kafka",
+    "name": { "long": "Franz Kafka", "short": "Kafka" },
+    "desc": "Much has been said of Kafka which cannot be detailed here.",
+    "dates": ["July 3, 1883", "June 3, 1924"],
+    "type": "creator"
+  },
+  {
+    "id": "kipling",
+    "name": { "long": "Rudyard Kipling", "short": "Kipling" },
+    "desc": "Much has been said of Rudyard which cannot be detailed here.",
+    "dates": ["Dec 30, 1865", "Jan 18, 1936"],
+    "type": "creator"
+  },
+  {
+    "id": "longfellow",
+    "name": { "long": "Henry Wadsworth Longfellow", "short": "Longfellow" },
+    "desc": "Much has been said of Mr. Longfellow which cannot be detailed here.",
+    "dates": ["Feb 27, 1807", "Mar 24, 1882"],
+    "type": "creator"
+  },
+  {
+    "id": "ohenry",
+    "name": { "long": "O. Henry", "short": "O. Henry" },
+    "desc": "Much has been said of O. Henry which cannot be detailed here.",
+    "dates": ["Sept 11, 1862", "June 5, 1910"],
+    "type": "creator"
+  },
+  {
+    "id": "poe",
+    "name": { "long": "Edgar Allan Poe", "short": "Poe" },
+    "desc": "Much has been said of Mr. Poe which cannot be detailed here.",
+    "dates": ["Jan 19, 1809", "Oct 7, 1849"],
+    "type": "creator"
+  },
+  {
+    "id": "shakespeare",
+    "name": { "long": "William Shakespeare", "short": "Shakespeare" },
+    "desc": "Much has been said of Shakespeare which cannot be detailed here.",
+    "dates": ["1564", "Apr 23, 1616"],
+    "type": "creator"
+  },
+  {
+    "id": "thoreau",
+    "name": { "long": "Henry David Thoreau", "short": "Thoreau" },
+    "desc": "Much has been said of Thoreau which cannot be detailed here.",
+    "dates": ["July 12, 1817", "May 6, 1862"],
+    "type": "creator"
+  },
+  {
+    "id": "twain",
+    "name": { "long": "Mark Twain", "short": "Twain" },
+    "desc": "Much has been said of Mark Twain which cannot be detailed here.",
+    "dates": ["Nov 30, 1835", "Apr 21, 1910"],
+    "type": "creator"
+  },
+  {
+    "id": "wilde",
+    "name": { "long": "Oscar Wilde", "short": "Wilde" },
+    "desc": "Much has been said of Oscar which cannot be detailed here.",
+    "dates": ["Oct 16, 1854", "Nov 30, 1900"],
+    "type": "creator"
+  }
+]
